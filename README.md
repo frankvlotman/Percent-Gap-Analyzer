@@ -1,11 +1,15 @@
 # Percent-Gap-Analyzer
 
-Loads Excel Files: Allows users to load Excel files directly into the app.
+Load Excel Files: Allows users to load pricing data from Excel files.
 
-Dynamic Data Display: Displays the loaded data in a user-friendly table format.
+Display Data: Presents the loaded data in a customizable table for easy review and analysis.
 
-Percentage Difference Calculation: Automatically calculates & displays % differences between consecutive data points in each row.
+Calculate % Differences: Automatically calculates & displays % differences between sequential price values.
 
-Data Export: Provides the ability to export the results to a new Excel file.
+Adjust Prices: Can adjust price values by applying % changes in a review window.
 
-User Interaction: Includes easy-to-use buttons for loading files and downloading processed data.
+Copy Data: Ability to copy selected rows to the clipboard for easy pasting into other applications.
+
+Export to Excel: Download the modified data, including any adjustments, as an Excel file.
+
+View Excel Formulas: Offers quick access to relevant Excel formulas for manual calculations and adjustments.
